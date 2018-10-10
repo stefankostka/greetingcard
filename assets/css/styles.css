@@ -1,0 +1,25 @@
+body {background-color: beige;
+} 
+
+
+div {margin: auto;
+    margin-top: 20%;
+  
+    height: 300px; 
+    width: 500px;
+    /* border: 2px rgb(218, 187, 64); */
+    box-shadow:10px 10px 40px red;  
+    background-image:   url(../img/w3css.gif);
+   
+    background-repeat: no-repeat;
+    background-position: 98% 100%;
+
+
+}
+
+
+p { font-family: 'Noto Serif', serif;
+    font-size: 150%;
+    position: relative;
+    padding: 50px 20px 10px 10px;
+}
